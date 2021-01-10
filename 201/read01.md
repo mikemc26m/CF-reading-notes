@@ -6,7 +6,7 @@
 
 ### CHAPTER 1: "Structure" (pg 2-11)
 
-    * "Tag" and "element" are used interchangeably but element is BOTH open & close tags, AND any content that lies between them
+* "Tag" and "element" are used interchangeably but element is BOTH open & close tags, AND any content that lies between them
 
 ### CHAPTER 8: "Extra Markup" (pg 12-39)
 
