@@ -50,9 +50,52 @@ Both above elements may use cite attribution to indicate where quote is from: \<
 
 ### Chapter 10: "Introducing CSS" (pg 226-245)
 
+EXAMPLE: *p \{font-family: Arial;}*
+
+* p \= selector
+* inside curly brackets \= declaration
+* "font family" \= property
+* "arial" \= value
+
+CSS SELECTORS
+
+* Universal selector -- \* \{ }  
+* Type selector -- h1, h2, h3, \{ }  
+* Class selector -- \.note \{ }  
+* ID selector -- \#introduction \{ }  
+* Child selector -- li\>a { }  
+* Descendant selector -- p a \{ }  
+* Adjacent sibling selector -- h1\+p \{ }  
+* General sibling selector -- h1\~p \{ }  
+
+RULE PRECEDENCE:
+
+* if 2 selectors are identical, the latter will take precedence
+* if 1 selector is more specific than the others, it will take precedence
+* you can add \!important after a property value to indicate precedence over other rules
+
+It's important to test new sites in more than 1 browser/operating systems since different browsers display CSS differently
+
 ## From the Duckett JS book
 
 ### Chapter 2 "Basic JavaScript Instructions" (pg 53-84)
+
+* Scripts follow instructions called "statements" - each needs to end with a semicolon
+* Each statement starts on a new line
+* Semicolon says when a step is over and to move to next step
+
+ Write comments to explain what code does
+
+* Multi-line comments stretch over more than 1 line - \/\* comment example \*\/
+* Single-line comments for short descriptions of what code is doing - \// code example //
+
+VARIABLES: HOW TO DECLARE THEM
+
+Example: *var quantity;* -- **var** \= variable *keyword*, **quantity** = variable *name* (sometimes called an identifier)
+
+Example: *quantity = 3;* -- **quantity** = variable *name*, **3** = variable *value*
+
+Before you can use a variable, you need to announce that you want to use it by creating it and assigning a name to it - called DECLARING THE VARIABLE
 
 ### Chapter 4 "Decisions and Loops" (pg 145-162) *only up to the section on switch statements*
 
