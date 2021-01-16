@@ -1,4 +1,4 @@
-# Class 2 reading notes
+# Class 3 reading notes
 
 ## From the Duckett HTML Book
 
