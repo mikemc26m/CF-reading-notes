@@ -1,4 +1,4 @@
-# Class 5 reading notes
+# Class 6 reading notes
 
 ## From the article "Understanding The Problem Domain Is The Hardest Part Of Programming"
 
