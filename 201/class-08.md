@@ -2,7 +2,7 @@
 
 ## From the Duckett HTML & CSS Book
 
-## Chapter 15: "Layout" (repeat of Class 4 reading (pg 358-404)
+### Chapter 15: "Layout" (repeat of Class 4 reading (pg 358-404)
 
 CSS PROPERTY: POSITION
 
