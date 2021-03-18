@@ -1,8 +1,8 @@
 # Reading Notes
 
-*My learning journal! I started creating this in January 2021. I'm excited to see how much I will add to this journal, and to have a visual representation of my growth.*
+*My learning journal! I created this in January 2021. I'm excited to see how much I will add to this journal, and to have a visual representation of my growth.*
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ### Table of Contents
 
@@ -21,3 +21,7 @@
 * [Reading 13](201/class-13.md)
 * [Reading 14](201/class-14.md)
 * [Reading 15](201/class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
