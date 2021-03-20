@@ -24,4 +24,8 @@
 
 ## Code 301 - Intermediate Software Development
 
+* [ES6 Classes](301/es6-classes.md)
+* [Class 01 - Introduction to React and Components](301/301-01.md)
+
+
 ## Code 401 - Advanced Software Development
