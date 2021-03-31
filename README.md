@@ -30,5 +30,4 @@
 * [Class 03 - Passing Functions as Props](301/301-03.md)
 * [Class 04 - React and Forms](301/301-04.md)
 
-
 ## Code 401 - Advanced Software Development
