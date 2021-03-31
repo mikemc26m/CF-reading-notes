@@ -28,6 +28,7 @@
 * [Class 01 - Introduction to React and Components](301/301-01.md)
 * [Class 02 - State and Props](301/301-02.md)
 * [Class 03 - Passing Functions as Props](301/301-03.md)
+* [Class 04 - React and Forms](301/301-04.md)
 
 
 ## Code 401 - Advanced Software Development
