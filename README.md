@@ -30,5 +30,9 @@
 * [Class 03 - Passing Functions as Props](301/301-03.md)
 * [Class 04 - React and Forms](301/301-04.md)
 * [Class 05 - Putting It All Together](301/301-05.md)
+* [Class 06 - Node.JS](301/301-06.md)
+* [Class 07 - REST](301/301-07.md)
+* [Class 08 -APIs](301/301-08.md)
+* [Class 09 -Functional Programming](301/301-09.md)
 
 ## Code 401 - Advanced Software Development
