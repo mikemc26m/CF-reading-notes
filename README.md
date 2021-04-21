@@ -34,5 +34,6 @@
 * [Class 07 - REST](301/301-07.md)
 * [Class 08 -APIs](301/301-08.md)
 * [Class 09 -Functional Programming](301/301-09.md)
+* [Class 10 - In Memory Storage](301/301-10.md)
 
 ## Code 401 - Advanced Software Development
