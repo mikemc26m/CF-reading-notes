@@ -35,5 +35,6 @@
 * [Class 08 -APIs](301/301-08.md)
 * [Class 09 -Functional Programming](301/301-09.md)
 * [Class 10 - In Memory Storage](301/301-10.md)
+* [Class 11 - Authentication](301/301-11.md)
 
 ## Code 401 - Advanced Software Development
