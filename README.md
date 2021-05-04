@@ -38,5 +38,8 @@
 * [Class 11 - Authentication](301/301-11.md)
 * [Class 12 - Mongo & Mongoose](301/301-12.md)
 * [Class 13 - CRUD](301/301-13.md)
+* [Class 14 - Diversity & Inclusion](301/301-14.md)
 
 ## Code 401 - Advanced Software Development
+
+## [Things I Want To Know More About](KnowMore.md)
