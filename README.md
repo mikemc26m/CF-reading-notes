@@ -43,5 +43,6 @@
 ## Code 401 - Advanced Software Development
 
 * [Class 01](401/401-01.md)
+* [Class 02 - Testing & Modules](401/401-02.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
