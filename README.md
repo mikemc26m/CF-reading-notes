@@ -44,5 +44,11 @@
 
 * [Class 01](401/401-01.md)
 * [Class 02 - Testing & Modules](401/401-02.md)
+* [Class 03 - FileIO & Exceptions](401/401-03.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
+
+* `ptw` command - pytest watch?
+* What is ptw verbose mode and what does it do?
+* How do I unlink a local repo from GitHub?
+* I did a `git init` inside an inner repo file. How do I undo it?
