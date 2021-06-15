@@ -29,4 +29,6 @@
 * In [this article](https://realpython.com/python-thinking-recursively/) about recursion, the article's author, Abhirag Awasthi, prefers threading state through each recursive call because they find global mutable state to be evil.
   * This makes me interested to look more into "global mutable state" and other options
 
+* Pytest is a **library**
+
 ----
