@@ -46,5 +46,6 @@
 * [Class 02 - Testing & Modules](401/401-02.md)
 * [Class 03 - FileIO & Exceptions](401/401-03.md)
 * [Class 04 - Classes, Objects, Recursion, Pytest](401/401-04.md)
+* [Class 05 - Linked Lists](401/401-05.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
