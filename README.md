@@ -47,5 +47,6 @@
 * [Class 03 - FileIO & Exceptions](401/401-03.md)
 * [Class 04 - Classes, Objects, Recursion, Pytest](401/401-04.md)
 * [Class 05 - Linked Lists](401/401-05.md)
+* [Class 06 - Game of Greed 1](401/401-06.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
