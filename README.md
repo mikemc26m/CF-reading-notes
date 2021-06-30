@@ -49,5 +49,6 @@
 * [Class 05 - Linked Lists](401/401-05.md)
 * [Class 06 - Game of Greed 1](401/401-06.md)
 * [Class 07 - Game of Greed 2](401/401-07.md)
+* [Class 08 - Game of Greed 3](401/401-08.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
