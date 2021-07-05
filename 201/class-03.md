@@ -4,9 +4,9 @@
 
 ### Chapter 3: "Lists" (pg 62-73)
 
-* Definition lists are created with \<dl> element, inside are \<dt> and \<dd> elements for definition term and definition, respectively.
+* Definition lists are created with `<dl>` element, inside are `<dt>` and `<dd>` elements for definition term and definition, respectively.
 
-* Nested lists are created by putting another \<ul> inside a list. Browsers display nested lists indented further than parent lists, and default browser rules usually change bullet style too.
+* Nested lists are created by putting another `<ul>` inside a list. Browsers display nested lists indented further than parent lists, and default browser rules usually change bullet style too.
 
 ### Chapter 13: "Boxes" (pg 300-329)
 
@@ -49,7 +49,7 @@
   * hidden/none
 
 * BORDER SHORTHAND - allows you to set width, style and color of a border in one property - values coded in that order
-  * Example - p \{border: 3px dotted #0088dd;\}
+  * Example - ```p {border: 3px dotted #0088dd;}```
 
 * Centering content
 * Change inline/block/inline-block/none

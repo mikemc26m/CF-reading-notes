@@ -1,8 +1,6 @@
 # Class 6 reading notes
 
-## From the article "Understanding The Problem Domain Is The Hardest Part Of Programming"
-
- [https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming]
+## ["Understanding The Problem Domain Is The Hardest Part Of Programming"](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 "Problem domains are like a puzzle with a blurry picture or no picture at all."
 

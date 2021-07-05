@@ -6,21 +6,20 @@
 
 ### Table of Contents
 
-* [Reading 1](201/class-01.md)
-* [Reading 2](201/class-02.md)
-* [Reading 3](201/class-03.md)
-* [Reading 4](201/class-04.md)
-* [Reading 5](201/class-05.md)
-* [Reading 6](201/class-06.md)
-* [Reading 7](201/class-07.md)
-* [Reading 8](201/class-08.md)
-* [Reading 9](201/class-09.md)
-* [Reading 10](201/class-10.md)
-* [Reading 11](201/class-11.md)
-* [Reading 12](201/class-12.md)
-* [Reading 13](201/class-13.md)
-* [Reading 14](201/class-14.md)
-* [Reading 15](201/class-15.md)
+* [Class 1 - Introductory HTML and JavaScript](201/class-01.md)
+* [Class 2 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)
+* [Class 3 - HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)
+* [Class 4 - HTML Links, CSS Layout, JS Functions](201/class-04.md)
+* [Class 5 - HTML Images, CSS Color & Text](201/class-05.md)
+* [Class 6 - JS Object Literals, The DOM](201/class-06.md)
+* [Class 7 - HTML Tables, JS Constructor Functions](201/class-07.md)
+* [Class 8 - More CSS Layout](201/class-08.md)
+* [Class 9 - Forms and Events](201/class-09.md)
+* [Class 10 - JS Debugging](201/class-10.md)
+* [Class 11 - Assorted Topics](201/class-11.md)
+* [Class 12 - Docs for the HTML \<canvas> Element & Chart.js](201/class-12.md)
+* [Class 13 - Local Storage](201/class-13.md)
+* [Class 14 - CSS Transforms, Transitions, and Animations](201/class-14.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -51,5 +50,6 @@
 * [Class 07 - Game of Greed 2](401/401-07.md)
 * [Class 08 - Game of Greed 3](401/401-08.md)
 * [Class 09 - Game of Greed 4](401/401-09.md)
+* [Class 10 - Stacks & Queues](401/401-10.md)
 
 ## [Things I Want To Know More About](KnowMore.md)

@@ -8,7 +8,7 @@ HTML Forms give you a set of elements to collect data from your users.
 
 You should never change the name of a form control in a page unless you know the code on the server will understand this new value.
 
-Form controls live inside a \<form> element. Should always carry an action attribute BUT will usually have a method and id attribute too.
+Form controls live inside a `<form>` element. Should always carry an action attribute BUT will usually have a method and id attribute too.
 
 ### Chapter 14: "Lists, Tables & Forms" (pg 330-357)
 

@@ -1,8 +1,6 @@
 # Class 13 reading notes
 
-## From "The Past, Present and Future of Local Storage for Web Applications"
-
-<http://diveinto.html5doctor.com/storage.html>
+## ["The Past, Present and Future of Local Storage for Web Applications"](http://diveinto.html5doctor.com/storage.html)
 
 Cookies were invented early in web history but have 3 major downsides:
 
@@ -23,7 +21,7 @@ HTML5 Storage is based on named key/value pairs. You store data based on a name 
 
 * If you are storing and retrieving anything OTHER than strings, you will need to use functions to coerce your retrieved data into the expected JS datatype.
 
-You can keep track programmatically when the storage area changes by trapping the ````storage```` event.
+You can keep track programmatically when the storage area changes by trapping the `storage` event.
 
-* The ````storage```` event is fired on the ````window```` object whenever ````setItem()````, ````removeItem()````, or ````clear()```` is called and *actually changes something*.
-  * If you set an itme to its existing value or call ````clear()```` when there are no named keys, the ````storage```` event will not fire, because nothing actually changed in the storage area.
+* The `storage` event is fired on the `window` object whenever `setItem()`, `removeItem()`, or `clear()` is called and *actually changes something*.
+  * If you set an itme to its existing value or call `clear()` when there are no named keys, the `storage` event will not fire, because nothing actually changed in the storage area.

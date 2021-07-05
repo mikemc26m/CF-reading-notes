@@ -1,8 +1,6 @@
 # Class 14-A reading notes
 
-## From "What Google Learned From Its Quest to Build the Perfect Team"
-
-<https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html>
+## ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
 
 * Study groups have become a rite of passage at M.B.A. programs, a way for students to practice working in teams and a reflection of the increasing demand for employees who can adroitly navigate group dynamics.
 * To prepare students for a complex work-force, business schools around the country have revised their curriculums to emphasize team-focused learning.
@@ -18,11 +16,11 @@
 
 * **PSYCHOLOGICAL SAFETY - more than anything else - is critical to making a team work**
 
-### From article on CSS Transforms
+---
 
-<http://learn.shayhowe.com/advanced-html-css/css-transforms/>
+### [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms)
 
-* General layout techniques can be revisited with alternative ways to size, position, and change elements - made possible by the ````transform```` property.
+* General layout techniques can be revisited with alternative ways to size, position, and change elements - made possible by the `transform` property.
   * Comes in 2 different settings: 2-dimensional and 3-dimensional
     * Each of these comes with their own individual properties and values
 
@@ -31,25 +29,25 @@
 * Three-dimensional
   * Transforms work on x and y and z axes
 
-### From article on CSS Transitions & Animations
+---
 
-<http://learn.shayhowe.com/advanced-html-css/transitions-animations/>
+### [CSS Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations)
 
 * CSS3 introduces ability to write behaviors for transitions and animations.
   * With CSS3 transitions you can alter appearance and behavior of an element whenever a state change occurs - such as when it's hovered over, focused on, active, or targeted.
   * Animations allow appearance and behavior of an element to be altered in mutliple keyframes.
     * Transitions provide a change from one state to another, animations can set mutiple points of transition upon different keyframes.
-* Easiest way for determining styles for different states is by using the ````:hover````, ````:focus````, ````:active````, and ````:target```` pseudo-classes
+* Easiest way for determining styles for different states is by using the `:hover`, `:focus`, `:active`, and `:target` pseudo-classes
 * Four transition-related properties: (first 3 are most popular)
-  * ````transition-property````
-  * ````transition-duration````
-  * ````transition-timing-function````
-  * ````transition-delay````
+  * `transition-property`
+  * `transition-duration`
+  * `transition-timing-function`
+  * `transition-delay`
 * **IMPORTANT NOTE**: not all properties may be transitioned, only properties that have an identifiable halfway point.
 
-### From 8 simple CSS3 transitions that will wow your users
+---
 
-<http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users>
+### [8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
 
 1. Fade in
 2. Change color
