@@ -5,8 +5,8 @@
 ### Chapter 5: "Images" (pg 94-125)
 
 * If you are building a website from scratch it's best to store all images in a specific folder for images
-* Images are added using \<img> tag, which is an empty element that needs no closing tag
-  * \<img> tags MUST include 2 attributes - src and alt
+* Images are added using `<img>` tag, which is an empty element that needs no closing tag
+  * `<img>` tags MUST include 2 attributes - src and alt
     * src - tells browser where it can find the image
     * alt - provides a text description, used for screen readers or if the image can't be displayed
     * title - can also be used to provide additional info about the image (displayed in a tooltip when user hovers over image)

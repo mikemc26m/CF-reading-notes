@@ -17,10 +17,10 @@ SIZE AND ALIGNMENT
 
 * Whenever you use consistently sized images across a site, you can use CSS to control the dimensions of the images instead of putting the dimensions in the HTML.
   * First, determine sizes of images commonly used throughout the site then give each size a name (small, medium, large)
-  * Where the \<img> elements appear in the HTML, use these names as values for the *class* attribute
+  * Where the `<img>` elements appear in the HTML, use these names as values for the *class* attribute
   * In CSS add selectors for each of the class names, then use CSS *width* and *height* properties to control the image dimensions
 
-* Rather than using the \<img> element's *align* attribute, authors are increasingly using *float* property to align images.
+* Rather than using the `<img>` element's *align* attribute, authors are increasingly using *float* property to align images.
   * *Float* property is added to the class that was created to represent the size of the image (such as the *small* class)
   * New classes are created with names such as *align-left* or *align-right* to align the images to the left or right of the page. These class names are used in addition to classes that indicate the size of the image.
 
@@ -30,7 +30,7 @@ SIZE AND ALIGNMENT
   * On the containing element, use *text-align* property with a value of *center*
   * On the image itself, you can use *margin* property and set the values of the left and right margins to *auto*.
 * You can also specify class names that allow any element to be centered, in the same way that you can for the dimensions or alignment of images.
-* The technique for specifying image size and alignment can also be used with the HTML5 *\<figure>* element.
+* The technique for specifying image size and alignment can also be used with the HTML5 *`<figure>`* element.
 
 BACKGROUND IMAGES
 
@@ -95,7 +95,7 @@ SEARCH ENGINE OPTIMIZATION (SEO)
   * Off-page techniques
     * Getting other sites to link to your page
     * Search engines are particularly interested in sites whose content is related to yours.
-    * Search engines also look at the words between your opening and closing \<a> tags in the link. If the text in the link contains keywords rather than just *click here* or your website address, it may be considered more relevant.
+    * Search engines also look at the words between your opening and closing `<a>` tags in the link. If the text in the link contains keywords rather than just *click here* or your website address, it may be considered more relevant.
     * The words that appear in links to your site should also appear in the text of the page that the site links to.
 
 * SEVEN KEY PLACES WHERE KEYWORDS SHOULD APPEAR

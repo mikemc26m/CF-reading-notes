@@ -7,12 +7,12 @@
 * URL means Uniform Resource Locator
 
 * To link to parent folder from current page:
-\<a href = "..\/pagename.html">Link text<\/a>
+  * `<a href = "..\/pagename.html">Link text</a>`
 
 * To link to grandparent folder from current page:
-\<a href = "..\/..\/pagename.html">Link text<\/a>
+  * `<a href = "..\/..\/pagename.html">Link text</a>`
 
-* The "target" attribute in \<a> tag opens link page in a new window
+* The "target" attribute in `<a>` tag opens link page in a new window
 
 * To link within a page, use "ID attributes" in HTML
 

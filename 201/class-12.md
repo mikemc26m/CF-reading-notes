@@ -1,28 +1,30 @@
 # Class 12 reading notes
 
-## From the article on the Chart.js API
-
-<https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/>
+## [Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 * Charts are better for displaying data visually than tables
 * Charts won't get used as layout tools
 * Charts are easier to look at and convey data quickly
 
-## From The Articles on the Canvas API
+---
 
-Basic Usage <https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage>
+## Canvas API
 
-* At first sight a \<canvas> element looks like an \<img> element without *src* and *alt* attributes
-  * A \<canvas> element has 2 optional elements - *width* and *height* - can be set using DOM properties
+[Basic Usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+
+* At first sight a `<canvas>` element looks like an `<img>` element without *src* and *alt* attributes
+  * A `<canvas>` element has 2 optional elements - *width* and *height* - can be set using DOM properties
 * When no *width* and *height* properties are specified, the canvas will intially be 300px wide and 150px high. Element can be sized by CSS, but during rendering image can appear distorted if CSS sizing doesn't respect the ratio of the initial canvas.
 * You should always provide fallback content to be displayed on older browsers that don't support the content.
-* A \<canvas> element REQUIRES a closing tag. If not present, the rest of the document will be considered the fallback content and won't be displayed.
+* A `<canvas>` element REQUIRES a closing tag. If not present, the rest of the document will be considered the fallback content and won't be displayed.
 
-Drawing shapes with Canvas <https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes>
+---
+
+[Drawing shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
 All elements are placed relative to the origin of the grid
 
-\<canvas> only supports 2 primitive shapes: rectangles and paths. All other shapes must be created by combining one or more paths.
+`<canvas>` only supports 2 primitive shapes: rectangles and paths. All other shapes must be created by combining one or more paths.
 
 Three functions that draw rectangles:
 
@@ -49,14 +51,14 @@ Functions to perform the above steps:
 
 When you call *fill()* any open shapes are closed automatically so you don't have to call *closePath()* - this is NOT the case when you call *stroke()*.
 
-Applying styles and colors <https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors>
+[Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
 If we want to apply colors to a shape there are 2 important properties we can use: *fillStyle* and *strokeStyle*
 
 * *fillStyle = color* - sets the style used when filling shapes
 * *strokeStyle = color* - sets the style for the shapes' outlines
 
-* *color* is a string representing a CSS \<color>, a gradient object, or a pattern object. By default, stroke and fill color are set to black (CSS color value #000000).
+* *color* is a string representing a CSS `<color>`, a gradient object, or a pattern object. By default, stroke and fill color are set to black (CSS color value #000000).
 
 * When you set the *strokeStyle* and/or *fillStyle* property, the new value becomes the default for all shapes. Must be reassigned each time you want different colors.
 
@@ -64,7 +66,7 @@ We can also draw semi-transparent (translucent) shapes by setting the *globalAlp
 
 * *globalAlpha = transparencyValue* - applies the specified transparency value to all future shapes drawn on the canvas. Value must be between 0.0 (fully transparent) to 1.0 (fully opaque) - value is 1.0 by default.
 
-LINE STYLES
+**LINE STYLES**:
 
 There are several properties that allow us to style lines
 
@@ -76,7 +78,7 @@ There are several properties that allow us to style lines
 * setLineDash(segments) - sets the current line dash pattern
 * lineDashOffset = value - specifies where to start a dash array on a line
 
-Drawing text <https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text>
+[Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 The canvas rendering context provides 2 methods to render text:
 

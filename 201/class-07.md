@@ -1,8 +1,6 @@
 # Class 7 reading notes
 
-## From "Domain Modeling"
-
-[https://github.com/codefellows/domain_modeling#domain-modeling]
+## ["Domain Modeling"](https://github.com/codefellows/domain_modeling#domain-modeling)
 
 * When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
 * Model its attributes with a constructor function that defines and initializes properties.
@@ -17,19 +15,19 @@
 
 Basic Table Structure:
 
-* \<table> - creates table element. Content is written out row by row.
-* \<tr> - stands for "table row", closed with \</tr> at end of row
-* \<td> - stands for "table data", use \</td> at end of each cell
+* `<table>` - creates table element. Content is written out row by row.
+* `<tr>` - stands for "table row", closed with `</tr>` at end of row
+* `<td>` - stands for "table data", use `</td>` at end of each cell
 
 Some browsers automatically draw lines around the table and/or individual cells. Control this with CSS.
 
-* \<th> - table heading for either column or row
+* `<th>` - table heading for either column or row
 
 There are 3 elements that help distinguis between main content of table and first and last rows.
 
-* \<thead> - headings should be inside here, close with \</thead>
-* \<tbody> - all body content inside here, close with \</tbody>
-* \<tfoot> - footer inside here, close with \</tfoot>
+* `<thead>` - headings should be inside here, close with \</thead>
+* `<tbody>` - all body content inside here, close with `</tbody>`
+* `<tfoot>` - footer inside here, close with `</tfoot>`
 
 ^^ These aren't treated differently from other elements, but CSS styles are used to change appearance
 

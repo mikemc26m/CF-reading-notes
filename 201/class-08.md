@@ -8,7 +8,7 @@ CSS PROPERTY: POSITION
 
 example:
 
-element { position: static/relative/absolute/fixed }
+```element { position: static/relative/absolute/fixed }```
 
 * Normal Flow - default behavior
 * Relative Positioning - shifts element to top, right, bottom, or left of where it WOULD have been
