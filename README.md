@@ -51,5 +51,6 @@
 * [Class 08 - Game of Greed 3](401/401-08.md)
 * [Class 09 - Game of Greed 4](401/401-09.md)
 * [Class 10 - Stacks & Queues](401/401-10.md)
+* [Class 11 = Data Analysis](401/401-11.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
