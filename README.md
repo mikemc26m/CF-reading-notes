@@ -55,5 +55,6 @@
 * [Class 12 - Pandas](401/401-12.md)
 * [Class 13 - Linear Regressions](401/401-13.md)
 * [Class 14 - Data Visualization](401/401-14.md)
+* [Class 15 - Trees](401/401-15.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
