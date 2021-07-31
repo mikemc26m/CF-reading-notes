@@ -57,5 +57,6 @@
 * [Class 14 - Data Visualization](401/401-14.md)
 * [Class 15 - Trees](401/401-15.md)
 * [Class 16 - Machine Learning Intro](401/401-16.md)
+* [Class 17 - Web Scraping](401/401-17.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
