@@ -59,5 +59,6 @@
 * [Class 16 - Machine Learning Intro](401/401-16.md)
 * [Class 17 - Web Scraping](401/401-17.md)
 * [Class 18 - Cryptography](401/401-18.md)
+* [Class 19 - Automation](401/401-19.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
