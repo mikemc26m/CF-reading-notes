@@ -60,5 +60,7 @@
 * [Class 17 - Web Scraping](401/401-17.md)
 * [Class 18 - Cryptography](401/401-18.md)
 * [Class 19 - Automation](401/401-19.md)
+* Class 20 - 25 MID TERMS
+* [Class 26 - Intro to Django](401/401-26.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
