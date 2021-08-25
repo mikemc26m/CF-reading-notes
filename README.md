@@ -62,5 +62,6 @@
 * [Class 19 - Automation](401/401-19.md)
 * Class 20 - 25 MID TERMS
 * [Class 26 - Intro to Django](401/401-26.md)
+* [Class 27 - Django Models](401/401-27.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
