@@ -63,5 +63,6 @@
 * Class 20 - 25 MID TERMS
 * [Class 26 - Intro to Django](401/401-26.md)
 * [Class 27 - Django Models](401/401-27.md)
+* [Class 28 - Django CRUD and Forms](401/401-28.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
