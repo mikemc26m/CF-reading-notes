@@ -66,5 +66,6 @@
 * [Class 28 - Django CRUD and Forms](401/401-28.md)
 * [Class 29 - Django Custom User](401/401-29.md)
 * [Class 30 - Hash Tables](401/401-30.md)
+* [Class 32 - Permissions & Postgresql](401/401-32.md) 
 
 ## [Things I Want To Know More About](KnowMore.md)
