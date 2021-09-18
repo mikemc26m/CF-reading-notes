@@ -68,5 +68,6 @@
 * [Class 30 - Hash Tables](401/401-30.md)
 * [Class 31 - Django REST Framework & Docker](401/401-31.md)
 * [Class 32 - Permissions & Postgresql](401/401-32.md)
+* [Class 34 - API Deployment](401/401-34.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
