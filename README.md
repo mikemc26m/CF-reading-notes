@@ -74,5 +74,6 @@
 * [Class 37 - React 1](401/401-37.md)
 * [Class 38 - React 2](401/401-38.md)
 * [Class 39 - React 3](401/401-39.md)
+* [Class 43 - Ethics in Tech](401/401-43.md)
 
 ## [Things I Want To Know More About](KnowMore.md)
